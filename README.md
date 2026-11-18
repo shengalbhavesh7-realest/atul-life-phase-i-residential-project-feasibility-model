@@ -1,11 +1,16 @@
 # Residential Project Feasibility Analysis
+
 ### Atul Life Phase I | Mulund West, Mumbai, Maharashtra, India
+
+---
 
 ## Project Overview
 
-This repository documents an independent residential development feasibility analysis of Atul Life Phase I, a residential project located in Mulund West, Mumbai.
+An independent financial feasibility analysis of Atul Life Phase I, a residential development located in Mulund West, Mumbai.
 
-The project analysis uses publicly available project disclosures, market research and explicitly documented modelling assumptions to evaluate the development's revenue potential, estimated completion costs, sales absorption, customer collections and projected cash flows.
+This project involves building an integrated Excel-based financial model to evaluate the development's revenue potential, construction expenditure, sales absorption, customer collections, financing requirements and projected investment returns.
+
+The analysis combines publicly available project disclosures, market research and explicitly documented modelling assumptions to develop a structured view of the project's financial feasibility.
 
 ## Project Details
 
@@ -21,55 +26,67 @@ The project analysis uses publicly available project disclosures, market researc
 | Area Measurement | Square Feet |
 | MahaRERA Registration | P51800055779 |
 
-## Model Scope
+## Financial Model
 
-The financial model is structured across ten worksheets:
+The financial model consists of ten interconnected worksheets:
 
-1. Project Overview
-2. Assumptions & Sources
-3. Unit Inventory
-4. Market Research
-5. Revenue Model
-6. Construction Costs
-7. Sales & Collections
-8. Debt & Financing
-9. Project Cash Flow
-10. Feasibility Summary
+| # | Worksheet | Purpose |
+|---|---|---|
+| 1 | Project Overview | Project information and key feasibility metrics |
+| 2 | Assumptions & Sources | Input documentation, sources and confidence levels |
+| 3 | Unit Inventory | Residential inventory and unit-level analysis |
+| 4 | Market Research | Market benchmarks and comparable pricing |
+| 5 | Revenue Model | Revenue estimation and sales assumptions |
+| 6 | Construction Costs | Construction expenditure forecasting |
+| 7 | Sales & Collections | Sales absorption and customer collection schedules |
+| 8 | Debt & Financing | Financing assumptions and debt analysis |
+| 9 | Project Cash Flow | Project-level cash flow forecasting |
+| 10 | Feasibility Summary | Consolidated feasibility metrics and investment returns |
 
-## Key Analytical Areas
+## Key Analytical Components
 
-- Project area and residential inventory analysis.
+- Residential inventory and area analysis.
 - Comparable market pricing and revenue estimation.
-- Construction cost analysis and expenditure forecasting.
+- Construction cost estimation and expenditure forecasting.
 - Monthly sales absorption and inventory tracking.
 - Customer collection schedules.
 - Debt and financing assumptions.
 - Project cash flow forecasting.
 - Investment return analysis.
-- Scenario and sensitivity analysis.
+- Cost and financing scenario analysis.
 
 ## Data Sources & Methodology
 
-The analysis draws on project disclosures, MahaRERA documentation, available project certificates, market research and supporting transaction records.
+The analysis draws on publicly available MahaRERA disclosures, project documentation, market research and supporting project information.
 
-Documented information is distinguished from calculated outputs and modelling assumptions.
+A structured assumptions register distinguishes between:
 
-Where reliable information is unavailable, assumptions and limitations are identified rather than presented as verified project facts.
+- Documented information.
+- Reported project information.
+- Preliminary market benchmarks.
+- Modelling assumptions.
+- Inputs requiring further research.
+
+Where reliable information is unavailable, assumptions and limitations are explicitly identified rather than presented as verified project facts.
+
+## Model Deliverable
+
+**Excel Financial Model**
+
+[Download Atul Life Phase I – Residential Feasibility Model](Financial%20Model/Atul_Life_Phase_I_Feasibility_Model_Final.xlsx)
+
+The downloadable workbook contains all ten worksheets and the integrated financial analysis.
 
 ## Important Limitations
 
-This is an independent analytical exercise, not an official financial statement or valuation issued by the developer.
+This is an independent analytical exercise, not an official financial statement, valuation or feasibility assessment issued by the developer.
 
-Certain inputs, including market asking prices, sales absorption, construction expenditure timing, financing terms and some historical cost allocations, involve assumptions or estimates.
+Certain inputs, including market asking prices, sales absorption, construction expenditure timing, financing terms and historical cost allocations, involve assumptions or estimates.
 
-The model's projected financial outcomes should therefore be interpreted in the context of its documented assumptions and data limitations.
-
-## Version History
-
-| Version | Description |
-|---|---|
-| v1.0 | Initial public release |
+Projected financial outcomes should therefore be interpreted in the context of the model's documented assumptions, source quality and data limitations.
 
 ---
 
-**Prepared as an independent real estate financial modelling and underwriting project.**
+**Project:** Atul Life Phase I  
+**Location:** Mulund West, Mumbai, India  
+**Model:** Excel-based Residential Development Feasibility Analysis
