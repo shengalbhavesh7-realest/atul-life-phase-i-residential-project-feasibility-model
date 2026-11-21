@@ -73,7 +73,7 @@ Where reliable information is unavailable, assumptions and limitations are expli
 
 **Excel Financial Model**
 
-[Download Atul Life Phase I – Residential Feasibility Model](Financial%20Model/Atul_Life_Phase_I_Feasibility_Model_Final.xlsx)
+[Download Atul Life Phase I – Residential Feasibility Model (V2)](./Financial%20Model/Atul_Life_Phase_I_Feasibility_Model_V2.xlsx)
 
 The downloadable workbook contains all ten worksheets and the integrated financial analysis.
 
